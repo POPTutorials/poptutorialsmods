@@ -83,6 +83,34 @@
       "targets": "both",
       "type": "mod",
       "version": "1.0"
+    },
+    {
+      "author": "POPTutorials",
+      "description": "Shrek mesh swap with Dahaka.",
+      "file": "Dahaka_Shonk_Modifica.jtmod",
+      "game": "WW",
+      "id": "shrek-as-dahaka",
+      "image": "images/shrek.png",
+      "name": "Shrek as Dahaka",
+      "sha256": "343364f8e50f3f1a0a0f95a9128becdee2cd5632e074abb3a5c05072ad2c044e",
+      "size": 60593673,
+      "targets": "both",
+      "type": "mod",
+      "version": "1.0"
+    },
+    {
+      "author": "POPTutorials",
+      "description": "Prince as Po",
+      "file": "Prince_Po_Mod.jtmod",
+      "game": "WW",
+      "id": "prince-po-mod",
+      "image": "images/po.png",
+      "name": "Prince Po Mod",
+      "sha256": "f478e5d9f708452b9ee70ee54376145017c49a65733625648d8d24a2ef4f6141",
+      "size": 101854197,
+      "targets": "both",
+      "type": "mod",
+      "version": "1.0"
     }
   ],
   "schema_version": 1
