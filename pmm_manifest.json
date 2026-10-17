@@ -1,0 +1,89 @@
+{
+  "mods": [
+    {
+      "author": "POPTutorials",
+      "description": "Awakened Devil Sword Dante that replaces the Scropion Sword\n\n3D Model and Texture by Floww on Sketchfab:\nhttps://sketchfab.com/3d-models/awakened-devil-sword-dante-9f6ea0ee979043d1966cb586d593bcc0",
+      "file": "Awakened_Devil_Sword_as_Scropion_Sword.jtmod",
+      "game": "WW",
+      "id": "awakened-devil-sword-dante-as-scropion-sword",
+      "image": "images/awakened.png",
+      "name": "Awakened Devil Sword Dante as Scropion Sword",
+      "sha256": "4fda80387ea252c9df3b1ff39518a44438ef4d1e70e0ede7630b996d0143c239",
+      "size": 37465164,
+      "targets": "both",
+      "type": "mod",
+      "version": "1.0"
+    },
+    {
+      "author": "POPTutorials",
+      "description": "Force Edge which replaces the Spider Sword. \n\n3D Model and Texture by brandon_grey on Sketchfab:\nhttps://sketchfab.com/3d-models/devil-may-cry-force-edge-sword-038d27be06594c33ae187cf623be53ff",
+      "file": "Force_Edge_as_Spider_Sword.jtmod",
+      "game": "WW",
+      "id": "force-edge-as-spider-sword",
+      "image": "images/force.png",
+      "name": "Force Edge as Spider Sword",
+      "sha256": "d9f80099823fe84ec21ede5df106ad59eafa5a90c17bd47fb41401e58f8641ef",
+      "size": 17875494,
+      "targets": "both",
+      "type": "mod",
+      "version": "1.0"
+    },
+    {
+      "author": "POPTutorials",
+      "description": "An incredibly intricate mod created by POPTutorials, it took a lot of time and effort so please enjoy.",
+      "file": "Incredible_HUD_Mod.jtmod",
+      "game": "WW",
+      "id": "incredible-hud-mod",
+      "image": "images/hud.png",
+      "name": "Incredible HUD Mod",
+      "sha256": "e212b00f1eb8192ad392d32b1f03e0df7088542ef10ce364c6bc975d9c9fd637",
+      "size": 10140051,
+      "targets": "both",
+      "type": "mod",
+      "version": "1.0"
+    },
+    {
+      "author": "POPTutorials",
+      "description": "Merciless from DMC2 which replaces the Snake Sword\n\n3D model and texture by brandon_grey on Sketchfab:\nhttps://sketchfab.com/3d-models/devil-may-cry-2-merciless-sword-restoration-0980981fe9a5459397800307d94e0cad",
+      "file": "Merciless_as_Snake_Sword.jtmod",
+      "game": "WW",
+      "id": "merciless-as-snake-sword",
+      "image": "images/merci.png",
+      "name": "Merciless as Snake Sword",
+      "sha256": "b99684e72ee87f4d26ae8c1645ad58da6f036d50c1c5396a95ed78e47c4698a4",
+      "size": 57177888,
+      "targets": "both",
+      "type": "mod",
+      "version": "1.0"
+    },
+    {
+      "author": "POPTutorials",
+      "description": "Rebellion that replaces the Lion Sword and Broken Lion Sword \n\n3D Model and Texture by ScreamingHomie on Sketchfab:\nhttps://sketchfab.com/3d-models/rebellion-sword-game-asset-devil-may-cry-5-07a2646d166b469daa6bf41028d5e4cc",
+      "file": "Rebellion_as_Lion_Sword.jtmod",
+      "game": "WW",
+      "id": "rebellion-as-lion-sword",
+      "image": "images/rebel.png",
+      "name": "Rebellion as Lion Sword",
+      "sha256": "0e8883e48e5c632e2cc39c43031c22f5a07319371538553326a66b398c5308aa",
+      "size": 7600426,
+      "targets": "both",
+      "type": "mod",
+      "version": "1.0"
+    },
+    {
+      "author": "POPTutorials",
+      "description": "Sparda which replaces the Water Sword. \n\n3D Model uploaded by Damascus Flash on sketchfab:\nhttps://sketchfab.com/3d-models/devil-sword-sparda-5194201a7a8940a989417059566aee2b",
+      "file": "Sparda_as_Water_Sword.jtmod",
+      "game": "WW",
+      "id": "sparda-as-water-sword",
+      "image": "images/sparda.png",
+      "name": "Sparda as Water Sword",
+      "sha256": "e06a228552675376e6b39d89ec747baa25f7c86bddfe3f9ba59ecafef0da164b",
+      "size": 4381570,
+      "targets": "both",
+      "type": "mod",
+      "version": "1.0"
+    }
+  ],
+  "schema_version": 1
+}
